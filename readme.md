@@ -38,3 +38,6 @@ SW: Synopsys SDK v22.01 + nRF52 SDK17.1.0 + monitor_and_parse.py
     最後，按下Button 02開始UART傳輸
 * Step 05
     觀察PC上的步態時空參數與原始三軸加速度資料
+
+## Demo Link
+https://www.youtube.com/watch?v=tPOsxX0Oops
